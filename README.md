@@ -15,7 +15,7 @@ I'm a Frontend Developer, i create responsive websites that are fast, easy to us
 Javascript, HTML, CSS, SEO and website design
 
 
-## Other Common Github Profile Sections
+## Other things about me 
 👩‍💻 All of my projects are available at https://iscodelcollado.com
 
 🧠 I'm currently learning React.js
