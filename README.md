@@ -12,7 +12,7 @@ I'm a Frontend Developer, i create responsive websites that are fast, easy to us
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, JavaScript, SEO and website design
+Javascript, HTML, CSS, SEO and website design
 
 
 ## Other Common Github Profile Sections
