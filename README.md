@@ -12,13 +12,13 @@ I'm a Frontend Developer, i create responsive websites that are fast, easy to us
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, SEO and website design
+Angular, JavaScript, HTML, CSS, SEO and website design
 
 
 ## Other things about me 
 👩‍💻 All of my projects are available at https://iscodelcollado.com
 
-🧠 I'm currently learning Angular js
+🧠 I'm currently practicing Angular js
 
 👯‍♀️ I'm looking to collaborate on website design & development
 
