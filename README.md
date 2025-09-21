@@ -24,6 +24,5 @@ Angular, JavaScript, HTML, CSS, SEO and website design
 
 💬 Ask me about html, css, javascript and Angular
 
-📫 How to reach me info@iscodelcollado.com
-
+📫 How to reach me fedelcollado@gmail.com
 
