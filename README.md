@@ -16,7 +16,7 @@ Angular, JavaScript, HTML, CSS, SEO and website design
 
 
 ## Other things about me 
-👩‍💻 All of my projects are available at https://iscodelcollado.com
+👩‍💻 All of my projects are available at https://www.iscodelcollado.dev
 
 🧠 I'm currently practicing Angular js
 
